@@ -11,4 +11,4 @@ tests, not claimed.
 | [open-banking](https://github.com/pinkainc/open-banking) | Bank server compatible with the LHV Connect API: mutual TLS, ISO 20022 payments and statements, VIBANs, SEPA direct debit, FX. Runs as a local emulator; it can book on open-ledger. |
 | [docs.minka.io](https://github.com/pinkainc/docs.minka.io) | Reference mirror of the Minka documentation and OpenAPI spec that open-ledger is built against. |
 
-All code is MIT. The projects are independent and not affiliated with Minka or LHV.
+Our code is MIT (the mirrored documentation in docs.minka.io remains Minka's). The projects are independent and not affiliated with Minka or LHV.
